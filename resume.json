@@ -30,14 +30,14 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
+      "name": "Pucho Web Solutions",
       "location": "Palo Alto, CA",
       "description": "Awesome compression company",
       "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "url": "https://PuchoWebSolutions.com",
+      "startDate": "2019-03-07",
+      "endDate": "Current",
+      "summary": "Pucho Web Solutions is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
