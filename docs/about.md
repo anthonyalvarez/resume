@@ -6,7 +6,7 @@ The resume would be in [JSONResume format](https://jsonresume.org/).
 
 More precisely, the goal is to build a (separate) GitHub action that would export my resume here into HTML / PDF and publish it as [a GitHub page](https://pages.github.com/).
 
-> This would mean my resume is nicely located at https://kelvintaywl.github.io/resume
+> This would mean my resume is nicely located at https://anthonyalvarez.github.io/resume
 
 ## But wait...
 
