@@ -1,25 +1,25 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Kelvin Tay",
-    "label": "Software Engineer",
-    "image": "http://github.com/kelvintaywl.png",
-    "email": "kelvintaywl@gmail.com",
-    "phone": "(81) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Anthony Alvarez",
+    "label": "Programmer",
+    "image": "http://github.com/anthonyalvarez.png",
+    "email": "anthony.alvarez.eng@gmail.com",
+    "phone": "(972) 400-9409",
+    "url": "https://anthonyalvarez.us",
+    "summary": "Anthony hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "229 E 85th St, Unit 148",
+      "postalCode": "NY 10028",
+      "city": "New York",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "anthonyEalvarez",
+        "url": "https://twitter.com/AnthonyEAlvarez"
       },
       {
         "network": "SoundCloud",
