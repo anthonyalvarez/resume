@@ -2,14 +2,14 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Anthony Alvarez",
-    "label": "Programmer",
-    "image": "http://github.com/anthonyalvarez.png",
-    "email": "anthony.alvarez.eng@gmail.com",
-    "phone": "(972) 400-9409",
-    "url": "https://anthonyalvarez.us",
-    "summary": "Anthony hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "label": "Mobile Web Specialist (MWS), Progressive Web App (PWA)",
+    "image": "https://avatars.githubusercontent.com/u/1598435?v=4",
+    "email": "anthony@pucho.com",
+    "phone": "(973) 400-9409",
+    "url": "http://anthonyalvarez.us/",
+    "summary": "A software engineer with three years experience in Tokyo Japan. Also worked one year in China and Hong Kong. Services include: Local Docker based Ecommerce website Development, JavaScript programming and testing Web Hosting and DevOps with Git, Github Actions and continutous delivery/integration (CD/CI) and Web performance audting.",
     "location": {
-      "address": "229 E 85th St, Unit 148",
+      "address": "229 E 85th St",
       "postalCode": "NY 10028",
       "city": "New York",
       "countryCode": "US",
@@ -18,76 +18,122 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "anthonyEalvarez",
+        "username": "AnthonyEAlvarez",
         "url": "https://twitter.com/AnthonyEAlvarez"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "aalvarez",
+        "url": "http://www.linkedin.com/in/aalvarez/"
       }
     ]
   },
   "work": [
     {
+      "name": "City of New York",
+      "location": "New York, NY",
+      "description": "Government",
+      "position": "Interpreter",
+      "url": "https://www1.nyc.gov/",
+      "startDate": "2019-08-31",
+      "summary": "Assist non-English speaking by translating information into their languages. Attend training classes and passed the translator exam.",
+      "highlights": []
+    },
+    {
       "name": "Pucho Web Solutions",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
+      "location": "New York, NY",
+      "description": "WordPress theme development and support",
+      "position": "Web Developer",
       "url": "https://PuchoWebSolutions.com",
-      "startDate": "2019-03-07",
-      "endDate": "Current",
-      "summary": "Pucho Web Solutions is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+      "startDate": "2019-03-01",
+      "summary": "Design, build, promote and maintain websites through the entire software development lifecycle. (SDLC) from hosting, to coding, to testing, deployment and marketing.",
+      "highlights": []
+    },
+    {
+      "name": "Super Happy Healthy Kids",
+      "location": "New York, NY",
+      "description": "Web content marketing, Social media marketing, Email marketing",
+      "position": "Web Marketing Specialist",
+      "url": "https://SuperHappyHealthyKids.com",
+      "startDate": "2019-03-01",
+      "endDate": "2019-07-31",
+      "summary": "Design, build, promote and maintain websites through the entire software development lifecycle. (SDLC) from hosting, to coding, to testing, deployment and marketing.",
+      "highlights": []
+    },
+    {
+      "name": "Corky Lee Photography",
+      "location": "New York, NY",
+      "description": "Web content marketing, Social media marketing, Email marketing",
+      "position": "Web Marketing Specialist",
+      "url": "https://en.wikipedia.org/wiki/Corky_Lee",
+      "startDate": "2019-03-01",
+      "endDate": "2020-12-31",
+      "summary": "Design, build, promote and maintain websites through the entire software development lifecycle. (SDLC) from hosting, to coding, to testing, deployment and marketing.",
+      "highlights": []
+    },
+    {
+      "name": "Language Farms",
+      "location": "New York, NY",
+      "description": "Web content marketing, Social media marketing, Email marketing",
+      "position": "Web Marketing Specialist",
+      "startDate": "2003-01-01",
+      "endDate": "2019-01-31",
+      "summary": "Design, build, promote and maintain websites through the entire software development lifecycle. (SDLC) from hosting, to coding, to testing, deployment and marketing.",
+      "highlights": []
+    },
+    {
+      "name": "NBC Stationary and Gift",
+      "location": "New York, NY",
+      "description": "Supply Chain Management",
+      "position": "Associate",
+      "startDate": "2015-02-01",
+      "endDate": "2016-02-15",
+      "summary": "Vendor relations, Retail goods Buyer. Publish daily sales reports. Employee training. Trade show attendee. ",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "HISPA - Hispanics Inspiring Student's Performance and Achievement",
+      "position": "Role Model Program",
+      "url": "https://anthonyalvarez.us/hispa",
+      "startDate": "2018-01-31",
+      "endDate": "2019-01-31",
+      "summary": "HISPA Role Models have a positive impact on student attitude towards education: 96% of students were inspired to do better in school and 95% were inspired to set college as a goal. In fact, students’ belief that they could attend college increased after each HISPA Role Model visit.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
+      "institution": "City University of New York City (CCNY)",
+      "url": "https://www.ccny.cuny.edu/",
+      "area": "East Asian Studies",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "startDate": "1988-12-31",
+      "endDate": "1991-06-31",
+      "score": "3.3",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "CCNY-IBM Co-operative Education Program",
+        "CCNY-China Foreign Exchange Scholarship",
+        "Cum Laude Scholar"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "Grow with Google Developer Scholarship Program",
+      "date": "2018-01-31",
+      "awarder": "Udacity",
+      "summary": "One of the top 10% of students from Web developer track to earn full scholarships to Mobile Web Specialist (MWS) Nanodegree program. This scholarship is part of the Grow with Google initiative.\n\nhttps://grow.google/programs/udacity/\nhttps://www.udacity.com/grow-with-google\n"
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Intro to Web App Development using Ruby on Rails",
+      "publisher": "Skillshare",
+      "releaseDate": "2018-07-01",
+      "url": "https://anthonyalvarez.us/learnwebappdevlopment",
+      "summary": "I just released my first online course for beginners to learn Web App Programming. The course consists of 15 short videos. The total running time is just under 60 minutes. \n\nI'm excited to share my new @skillshare online class about #webappdevelopment which covers the essentials of developing #ruby on @rails using @Docker and will give you the basics you need to begin trying it out for yourself."
     }
   ],
   "skills": [
@@ -114,44 +160,44 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Advanced speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Advanced speaker"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "E-commerce",
+      "level": "Master",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "WooCommerce",
+        "PayPal",
+        "Square",
+        "eBay"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Dr. David Sciuto, MBA, MFA",
+      "reference": "Anthony is a highly-qualified, professional employee with impressive technical skills.  During his years on our radio show, and in previous web work with Anthony, his knowledge of all things technical, his ability to detail, and his graphics design talents provided a unique combination of skills.  He is truly a hardworking, dedicated, and loyal employee that would be a beneficial resource in any organization."
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
+      "name": "Using Virtual Machines (VMs) for local and team Web Development",
+      "description": "Gave a developer talk about the features, benefits, and advantages of Vagrant, why it is so awesome and how you can get up and running quickly. Vagrant is a great piece of software that creates reproducible and portable virtual machines which can be used as web servers for local WordPress testing environments. Vagrant is a tool for managing virtual machines – creating a programmatic way to create and configure virtual machines that mimic an application’s production environment. The talk was given at WordCamp,  DevOps Camp and RubyCamp all in New York.",
+      "highlights": [],
+      "keywords": [],
+      "startDate": "2016-07-31",
+      "endDate": "2016-07-31",
+      "url": "https://anthonyalvarez.us/vagrant-for-local-and-team-wordpress-development/",
+      "roles": [],
       "entity": "Smoogle",
       "type": "application"
     }
