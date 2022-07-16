@@ -117,6 +117,19 @@
         "CCNY-China Foreign Exchange Scholarship",
         "Cum Laude Scholar"
       ]
+    },
+    {
+      "institution": "New York City College of Technology (CUNY)",
+      "url": "https://www.citytech.cuny.edu/",
+      "area": "Cloud and Windows Server Administration",
+      "studyType": "Certificate",
+      "startDate": "2016-12-31",
+      "endDate": "2016-12-31",
+      "courses": [
+        "Windows Server Administration",
+        "Azure Hybrid Cloud Administration",
+        "Microsoft Active Directory"
+      ]
     }
   ],
   "awards": [
